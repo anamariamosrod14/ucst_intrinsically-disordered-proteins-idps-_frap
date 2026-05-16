@@ -1,0 +1,17 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Temporary outputs
+*.zip
+*.log
+
+# Large microscope/image files
+*.czi
+*.lsm
+*.tif
+*.tiff
+
+# Uncomment if raw data should not be public
+# data/raw/
